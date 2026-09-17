@@ -1,5 +1,23 @@
-# All Starred Repositories
+<h1 align="center">Awesome Aimw</h1>
+<p align="center">
+  <b>AIMW</b> : Android, IOS, MacOS and Windows. A list of awesome projects, libraries, tools, fonts, and dev/design resources
+</p>
+<p align="center">
+  <img src="Photos/Photo.png" alt="The photo">
+</p>
 
+---
+<h1 align="center">In case you have any suggestion </h1>
+
+
+<p align="Center">
+  <a href="https://t.me/thefaresgroup">
+    <img src=Photos/Tele.png alt="Telegram" width="50" height="50"
+ </a>
+</p>
+
+---
+## 📜 Go find it
 > 2041 repositories, grouped by platform then by category.
 
 [iOS](#ios) | [Android](#android) | [Mac](#mac) | [Windows](#windows)
