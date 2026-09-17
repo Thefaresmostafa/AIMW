@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Aimw(WIP) </h1>
+<h1 align="center">Awesome Aimw</h1>
 <p align="center">
   <b>AIMW</b> : Android, IOS, MacOS and Windows. A list of awesome projects, libraries, tools, fonts, and dev/design resources
 </p>
