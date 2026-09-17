@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -21,10 +23,10 @@ jobs:
           python-version: '3.11'
 
       - name: Run Build Script
-        run: python .github/build_readme.py
+        run: python .GitHub/build_readme.py
 
       - name: Commit and Push README
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-generate full master README with all repositories"
+          commit_message: "Auto-generate master README with all repositories"
           file_pattern: "README.md"
